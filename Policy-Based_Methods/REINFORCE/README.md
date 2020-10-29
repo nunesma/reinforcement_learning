@@ -1,6 +1,6 @@
 # REINFORCE
 
-In this notebook we will train REINFORCE with OpenAI Gym's Cartpole environment.
+In this notebook we will train REINFORCE with OpenAI Gym's Cartpole environment and learn how to use Monte Carlo Policy Gradients to solve a classic control task.
 
 ### Instructions
 Open REINFORCE.ipynb to see an implementation of REINFORCE (also known as Monte Carlo Policy Gradients) with OpenAI Gym's Cartpole environment.
