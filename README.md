@@ -2,12 +2,8 @@
 
 Bsic methods used in reinforcement learnind and deep reinforcement learning
 
-Table of contents.
+Table of contents:
 - DQN
-- Move-37
-- p1_navigation
-- p2_continous-control
-- p3_collab-compet
+- DRLND - Udacity Deep Reinforcement Lerning Nanodegree projects and exercises.
 - Policy-Based_Methods
-- reinforcement_learning: basic methods in reinforcement learning (monte carlo, temporal difference, etc)
-- reinforcement-learning-an-introduction-master
+
